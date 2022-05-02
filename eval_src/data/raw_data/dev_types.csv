@@ -1,0 +1,9 @@
+vendor_product,device_type
+amazon:echo,voice_assistant
+belkin:switch,switch
+orvibo:switch,switch
+google:chromecast,tv
+tplink:switch,switch
+samsung:camera,camera
+dlink:camera,camera
+samsung:tv,tv

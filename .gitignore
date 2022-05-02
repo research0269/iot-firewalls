@@ -1,0 +1,9 @@
+graphs/
+venv/
+*.log
+**/__pycache__/
+eval_src/data/*
+!eval_src/data/devs.parquet
+!eval_src/data/flows.only.parquet
+!eval_src/data/raw_data/
+firewalls_src/data/allowlists/**
